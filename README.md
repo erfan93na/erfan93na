@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erfan Naghashlou</h1>
-<h3 align="center">Frontend developer based in Tehran, Iran.</h3>
+<h3 align="center">Frontend developer.</h3>
 
 - 🌱 I’m currently learning **Mobile Development (iOS & React Native)**
 
