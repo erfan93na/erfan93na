@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erfan Naghashlou</h1>
 <h3 align="center">Frontend developer.</h3>
 
-- 🌱 I’m currently learning **Mobile Development (iOS & React Native)**
+- 🌱 I’m currently learning **Mobile Development (React Native)**
 
 - 💬 Ask me about **React, TypeScript, JavaScript**
 
